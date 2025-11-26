@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# Chiavi API (non caricare mai!)
+apikey.txt
+*.key
