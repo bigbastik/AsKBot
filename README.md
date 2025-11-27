@@ -14,7 +14,7 @@ Un semplice bot IRC che risponde ai messaggi tramite il modello OpenAI GPT.
 
 ### 1. Clona il repository
 ```bash
-git clone https://github.com/tuo-username/askbot.git
+git clone https://github.com/bigbastik/askbot.git
 cd askbot
 2. Installa i requisiti
 bash
